@@ -1,0 +1,1 @@
+56116 1970324838681157 1667249097000000000 52f60689778b65d7c0e5a128c1da83e6 C:\Users\rvn\scoop\apps\zig\current\lib\libc\mingw\lib-common\ntdll.def.in

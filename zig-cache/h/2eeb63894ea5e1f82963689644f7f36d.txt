@@ -1,0 +1,1 @@
+18381 1688849863845848 1667249097000000000 b939f3fd17c6f6db4ec2dfda0e909384 C:\Users\rvn\scoop\apps\zig\current\lib\libc\mingw\lib-common\advapi32.def.in
